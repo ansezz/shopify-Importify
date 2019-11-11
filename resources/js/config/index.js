@@ -1,1 +1,1 @@
-export const API_URL = 'https://importify.local'
+export const API_URL = 'https://importify.thecreatiiives.com'
